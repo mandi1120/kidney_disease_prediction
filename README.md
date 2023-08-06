@@ -21,7 +21,7 @@
 Kidney disease affects millions of Americans and often goes undiagnosed. In the absence of medical care, data science can be leveraged to alert individuals who are at risk of developing the disease. This paper details the process of developing and evaluating machine learning models to predict the disease based on associated risk factors. Three machine learning models were trained using 2021 survey data collected by state health departments in combination with Centers for Disease Control & Prevention. Each model was run using four different sets of features. The XGBoost algorithm outperformed Random Forest and SGB using the features: diabetes, angina_coronary_heart_disease, high_blood_pressure, and age_group. This model achieved an F1 score of 80.98. The finalized model was applied to 2019 survey data to generate disease predictions and stratify individuals into risk levels. The survey data and model output were imported to a SQL database for storage. Data visualizations were developed in Tableau to summarize the results. The results showed that 30% of the respondents are at risk of developing the disease, while ages 65 and older are at the highest risk with a median risk score of 61.
 
 #### Methodology:
-<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/methodology.png?raw=true" name="methodology">
+<img src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/images/methodology.png?raw=true" name="methodology">
 
 Summary:  
 - I first downloaded BRFSS 2021 data from the CDC website.  
