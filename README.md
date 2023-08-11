@@ -35,8 +35,9 @@ View the written report for an in depth description of the project.
 <img src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/images/sql.png?raw=true" name="sql">
 
 ## Written Report:
-[embed]https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf[/embed]
+https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf
 
+<object data="../blob/main/Capstone_Project_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 <br/>  
