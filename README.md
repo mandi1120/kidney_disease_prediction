@@ -39,7 +39,10 @@ https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Projec
 
 <object data="../blob/main/Capstone_Project_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf" width="500" height="375">
 
+<embed src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf" width="500" height="375" type="application/pdf">
+ 
 <br/>  
 <br/>  
 <br/>  
