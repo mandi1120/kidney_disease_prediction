@@ -4,7 +4,7 @@
 - Date: 8/11/23
 
 ## Overview: 
-- In this project, I created a machine learning model to predict kidney disease based on associated risk factors. I then ran the model on a new dataset and developed a Tableau dashboard to present the predicted outcomes for the population.  
+- In this project, I created a machine learning model to predict kidney disease from associated risk factors. I then ran the model for a new population and developed a Tableau dashboard to present the outcomes.  
 
 ### Files & Links:  
 - Data Source: Centers for Disease Control & Prevention  
@@ -35,14 +35,8 @@ View the written report for an in depth description of the project.
 <img src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/images/sql.png?raw=true" name="sql">
 
 ## Written Report:
-https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf
+[View Report](https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf)
 
-<object data="../blob/main/Capstone_Project_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf" width="500" height="375">
-
-<embed src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf" width="500" height="375" type="application/pdf">
- 
 <br/>  
 <br/>  
 <br/>  
