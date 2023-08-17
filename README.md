@@ -26,7 +26,7 @@ Project Summary:
 3. I trained three machine learning models using the BRFSS 2021 data - XGBoost, Random Forest, and Linear SGD. I evaluated the outcomes for each model and selected the model that performed best.   
 4. I ran the final model on a new dataset of BRFSS 2019 data, also from CDC, to generate predictions. I saved the data and model results to a SQL database, then wrote a query to load the data into Tableau. I created data visualizations in a dashboard form to present the results.   
 
-[View the written report](https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf) for an in depth description of the project.
+[View the written report](https://github.com/mandi1120/kidney_disease_prediction/blob/main/Capstone_Project_Report.pdf) for an in-depth description of the project.
 
 ## Dashboard:
 <img src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/images/dashboard.png?raw=true" name="dashboard">
@@ -34,6 +34,8 @@ Project Summary:
 ## SQL Query: 
 <img src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/images/sql.png?raw=true" name="sql">
 
+## Database: 
+<img src="https://github.com/mandi1120/kidney_disease_prediction/blob/main/images/pgadmin4.png?raw=true" name="db">
 
 
 <br/>  
